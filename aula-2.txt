@@ -1,0 +1,2 @@
+tipo de dado "float" - número de ponto flutuante ou número com casa decimal.
+tipo de dado "boleano" - uma informação que só pode ser considerada como verdadeira ou falsa (true ou false)

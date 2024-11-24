@@ -1,0 +1,12 @@
+o que é uma variável?
+R= Basicamente uma variável é um lugar na memória do computador que eu peçco pro JS separar e guardar uma informação, para que em um determinado momento do meu código eu possa pedir para ele resgatar e me dar o valor que foi armazenado lá.
+
+O que são tipos de dados?
+R= Assim como na vida real, onde as informações são de tipos diferentes, como por exemplo o nome de pessoa é um texto, a altura é um número de casa decimal, na programação 'tipos de dados' são exatamente isso.
+existem vários tipos de dados, e eu escolho o tipo de dado que uma variável vai receber.
+
+'Console log', O que é?
+R= O 'console.log' é uma das formas que eu posso externar oque programei no meu script.
+
+o que é Concatenação?
+R= Concatenação basicamente é juntar uma coisa na outra. por exemplo juntar dois textos ou juntar um número em um texto. o sinal de + no JS serve tanto para concatenar quanto para somar.

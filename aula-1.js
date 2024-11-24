@@ -1,16 +1,15 @@
-var numero = 123
-var nome = "João Marcola"
-var idade = 25
-var altura = 1.70
+var neighborhood = "Portal D'Oeste"
+var city = "Osasco"
+var state = "São Paulo"
+//texto na programação = string
+console.log (neighborhood, city, state)
 
-console.log(numero, nome, idade, altura)
-
-var numeroSecreto = numero
-
-console.log(numeroSecreto)
-
-var numeroMagico = numeroSecreto
-
-console.log(numeroMagico)
-
-console.log("", 2)
+console.log ("Eu moro no bairro ", neighborhood)
+console.log ("Moro na cidade", city)
+var cityWherILive = "Eu moro no estado de "+ state //concatenação= juntar uma coisa na outra
+console.log (cityWherILive)
+console.log (city + " "+state)
+console.log ("abc"+31)
+console.log (10+10)
+console.log ("10"+"10")
+console.log ("10+10")

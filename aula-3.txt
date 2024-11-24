@@ -1,0 +1,4 @@
+O que é um "Objeto"?
+R= Objeto é um agrupamento de informações. 
+A sintaxe de um objeto é chave e valor sempre, sendo um valor, qualquer tipo de dado (string, número, ou até mesmo outro objeto). podendo ser também uma váriavel.
+pra eu ler informaçoes em um objeto eu acesso essa informação usando ponto (.) por exempo "pessoa.nome" ou "pessoa.idade"
